@@ -228,6 +228,17 @@
                     "min": 0,
                     "step": 1
                 },
+                 {
+                    "title": "Robot Fuel Scored",
+                    "type": "range",
+                    "required": false,
+                    "code": "FITR",
+                    "formResetBehavior": "reset",
+                    "defaultValue": 40,
+                    "min": 0,
+                    "max": 100,
+                    "step": 20
+                },
                 {
                     "title": "Human Fuel Scored",
                     "description": "The amount of fuel scored directly by the human player",
