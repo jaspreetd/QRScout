@@ -302,7 +302,7 @@
                     "formResetBehavior": "reset",
                     "defaultValue": false
                 },
-                  {
+                {
                     "title": "Can drive over Bump?",
                     "type": "boolean",
                     "required": false,
@@ -310,7 +310,7 @@
                     "formResetBehavior": "reset",
                     "defaultValue": true
                 },
-                  {
+                {
                     "title": "Can drive under Trenches?",
                     "type": "boolean",
                     "required": false,
